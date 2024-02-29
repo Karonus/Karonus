@@ -1,9 +1,7 @@
-<h1 align="center">Hi there! 👋</h1>
+<h1 align="center">Hi there, I'm Karonus! 👋</h1>
 
 <p align="center">
   Develop websites, applications and chat bots for Discord and Telegram.
-  <br/>
-  <a href="https://karonus.ru/">My website</a>
 </p>
 
 <br/>
