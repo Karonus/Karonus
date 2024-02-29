@@ -4,7 +4,11 @@
   Develop websites, applications and chat bots for Discord and Telegram.
 </p>
 
-<br/>
+<p align="center">
+  My Telegram - <a href="https://t.me/karonus">@karonus</a>
+  <br/>
+  My Discord - <a href="https://discord.com/users/371530764510167040">@karonus_</a>
+</p>
 
 <h2 align="center">My skills</h2>
 <p align="center">
