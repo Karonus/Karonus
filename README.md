@@ -13,10 +13,3 @@
   <br/>
   My email - <a href="mailto:me@karonus.ru">me@karonus.ru</a>
 </p>
-
-<h2 align="center">My skills</h2>
-<p align="center">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=git,githubactions,go,java,python,js,ts,php,pnpm,nodejs,arduino,androidstudio,qt,selenium,django,fastapi,flask,express,prisma,tailwindcss,docker,nginx,postgresql,mysql,sqlite,redis,rabbitmq,linux,windows,sentry,grafana,vercel,cloudflare,workers&perline=10" alt="git, githubactions, go, java, python, js, ts, php, nodejs, arduino, androidstudio, qt, selenium, django, fastapi, flask, express, prisma, tailwindcss, docker, nginx, postgresql, mysql, sqlite, redis, rabbitmq, linux, windows, sentry, grafana, vercel, cloudflare, workers">
-  </a>
-</p>
